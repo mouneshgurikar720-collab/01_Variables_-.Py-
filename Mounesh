@@ -1,0 +1,4 @@
+name = "Mounesh"
+age = 18
+marks = 85.5
+is_student = True
